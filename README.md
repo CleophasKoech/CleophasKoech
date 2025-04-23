@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FDBFF&width=435&lines=hey+%7C+i'm+cleophas" alt="typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FDBFF&width=435&lines=HEY+%7C+I`M+CLEOPHAS" alt="typing animation">
 </h1>
 
 <p align="center">
@@ -25,4 +25,4 @@ const devTruth = () => {
   console.log("in the end");
 }
 
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem" width="400" alt="now playing"> </p><p align="center"> <sub><i>"compile. run. repeat."</i></sub> </p> ```
+
