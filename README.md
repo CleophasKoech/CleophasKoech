@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**CleophasKoech/CleophasKoech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">cleophas</h1>
 
-Here are some ideas to get you started:
+<p align="center">code. sometimes it compiles.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⌇ current drift
+
+- pushing bytes in fintech trenches
+- fullstack, half-caff
+- api spelunking
+- controlled demolition of production
+
+---
+
+### ⌇ tools in rotation
+
+`next` • `postgres` • `containers` • `regrets`
+
+---
+
+### ⌇ whispered truth
+
+the secret is there are no secrets.  
+just stackoverflow tabs in the dark.
+
+---
+
+<p align="center"><i>“errors are just features with sharper teeth.”</i></p>
