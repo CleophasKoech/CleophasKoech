@@ -1,30 +1,24 @@
+<h1 align="center">
+  <code>cleophas</code>
+</h1>
 
-<h1 align="center">cleophas</h1>
-
-<p align="center">code. sometimes it compiles.</p>
-
----
-
-### ⌇ current drift
-
-- pushing bytes in fintech trenches
-- fullstack, half-caff
-- api spelunking
-- controlled demolition of production
+<p align="center">
+  <sub>writing code that <i>mostly</i> runs</sub>
+</p>
 
 ---
 
-### ⌇ tools in rotation
-
-`next` • `postgres` • `containers` • `regrets`
-
----
-
-### ⌇ whispered truth
-
-the secret is there are no secrets.  
-just stackoverflow tabs in the dark.
+### ⌇ drift
+- threading fintech systems  
+- fullstack, but skeptically  
+- api constellations  
+- breaking things to learn  
 
 ---
 
-<p align="center"><i>“errors are just features with sharper teeth.”</i></p>
+### ⌇ tools
+```diff
++ next.js 
++ postgres 
+- docker 
+! redis
